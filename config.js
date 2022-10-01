@@ -101,8 +101,8 @@ global.thumbnailUrl = [
 /*============== SOCIAL ==============*/
 global.sig = '-'
 global.sgh = 'https://github.com/RAFF4YOU'
-global.sgc = 'https://chat.whatsapp.com/Lj43c0jLvRx
-global.sdc = 'https://github.com/RAFF4YOU
+global.sgc = 'https://chat.whatsapp.com/Lj43c0jLvRx'
+global.sdc = 'https://github.com/RAFF4YOU'
 global.snh = 'https://github.com/RAFF4YOU'
 
 /*============== HENTAI ==============*/ 
