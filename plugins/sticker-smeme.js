@@ -1,0 +1,1 @@
+#sf plugins/sticker-smeme.ja
